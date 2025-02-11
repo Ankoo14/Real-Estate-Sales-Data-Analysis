@@ -2,4 +2,4 @@ Pandas
 Seabron
 Matplotlib
 Excel
-PowerBI Desktop
+PowerBI
